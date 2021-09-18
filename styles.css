@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+.color-1 {
+  background-color: #F2CB9B;
+}
+
+.color-2 {
+  background-color: #7AABBF;
+}
+
+.color-3 {
+  background-color: #2B3240;
+}
+
+.color-4 {
+  background-color: #2B3240;
+}
+
+.font-1 {
+  font-family: 'Cormorant Garamond', serif;
+}
+  @media (min-width: 768px) { 
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
